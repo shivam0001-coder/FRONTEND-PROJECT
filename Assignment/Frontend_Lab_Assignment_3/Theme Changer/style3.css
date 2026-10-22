@@ -1,0 +1,25 @@
+body {
+font-family: Arial, sans-serif;
+background-color: white;
+color: black;
+text-align: center;
+transition: 0.3s;
+}
+
+.container {
+margin-top: 150px;
+}
+
+button {
+padding: 10px 20px;
+background-color: blue;
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.dark {
+background-color: black;
+color: white;
+}

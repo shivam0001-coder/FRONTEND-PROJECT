@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Theme Changer</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body>
+
+
+<div class="container">
+    <h1>Theme Changer</h1>
+    <p>Click the button to change the theme.</p>
+
+    <button onclick="changeTheme()">Change Theme</button>
+</div>
+
+<script src="script2.js"></script>
+
+
+</body>
+</html>
